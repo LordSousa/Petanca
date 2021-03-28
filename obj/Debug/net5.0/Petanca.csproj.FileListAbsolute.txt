@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\New folder\Petanca\bin\Debug\net5.0\Petanca.exe
+C:\Users\Pedro\Desktop\New folder\Petanca\bin\Debug\net5.0\Petanca.deps.json
+C:\Users\Pedro\Desktop\New folder\Petanca\bin\Debug\net5.0\Petanca.runtimeconfig.json
+C:\Users\Pedro\Desktop\New folder\Petanca\bin\Debug\net5.0\Petanca.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\New folder\Petanca\bin\Debug\net5.0\Petanca.dll
+C:\Users\Pedro\Desktop\New folder\Petanca\bin\Debug\net5.0\ref\Petanca.dll
+C:\Users\Pedro\Desktop\New folder\Petanca\bin\Debug\net5.0\Petanca.pdb
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\Petanca.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\Petanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\Petanca.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\Petanca.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\Petanca.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\Petanca.dll
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\ref\Petanca.dll
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\Petanca.pdb
+C:\Users\Pedro\Desktop\New folder\Petanca\obj\Debug\net5.0\Petanca.genruntimeconfig.cache
